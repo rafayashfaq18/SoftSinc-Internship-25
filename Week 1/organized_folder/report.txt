@@ -1,0 +1,5 @@
+Report Generated: 2025-06-01 17:12:47.219183
+Missing values: 2
+name: 3 unique entries
+age: 3 unique entries
+city: 3 unique entries
