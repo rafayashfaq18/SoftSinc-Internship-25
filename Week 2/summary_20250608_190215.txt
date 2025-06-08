@@ -1,0 +1,16 @@
+Summary Report
+         Name  Age             JoinDate Department
+count       1    1                    1          1
+unique      1    1                  NaN          1
+top     Alice   25                  NaN         HR
+freq        1    1                  NaN          1
+mean      NaN  NaN  2023-01-01 00:00:00        NaN
+min       NaN  NaN  2023-01-01 00:00:00        NaN
+25%       NaN  NaN  2023-01-01 00:00:00        NaN
+50%       NaN  NaN  2023-01-01 00:00:00        NaN
+75%       NaN  NaN  2023-01-01 00:00:00        NaN
+max       NaN  NaN  2023-01-01 00:00:00        NaN
+
+Change Log:
+Dropped rows with missing values: 4 entries removed
+Converted JoinDate to datetime

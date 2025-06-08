@@ -1,0 +1,6 @@
+Name,Age,JoinDate,Department
+Alice,25,2023-01-01,HR
+Bob,,2022-12-15,Engineering
+,30,invalid,Engineering
+Daisy,unknown,,HR
+Evan,22,2023-03-10,
